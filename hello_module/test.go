@@ -72,7 +72,7 @@ func main() {
 	//	fmt.Println("\n")
 	//}
 
-	fmt.Printf("姓名是：%s，年龄是：%d", name, newAge)
+	fmt.Printf("hello， your姓名是：%s，年龄是：%d", name, newAge)
 
 	// breakDemo1()
 
